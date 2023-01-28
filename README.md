@@ -43,17 +43,18 @@ You are required to model the price of houses with the available independent var
         4. TotRmsAbvGrd
         5. YearBuilt
         
- You can see above some of the key contributer features as as flow as they have Highere values of positive coefficient
+ You can see above features are some of the key contributer  as they have Highere values of positive coefficient
  
 
-Below are some of them which will reduce the Housing price
+Below are some of them which will reduce the Housing price as they have negative coefficient .
 
         1. BedroomAbvGr
         2. KitchenQual_TA
         3. RoofMatl_Tar
 
+Note: These are not limited features just a brief feature to hightlight.
 
-I have also showed the Variance and Bias different between the LinearRegression/Lasso and Rigid Models . 
+I have also showed the Variance and Bias different between the LinearRegression/Lasso and Rigid Models . Please check on the Jupyter note book  
 
 Assignment Part-II Subjective Question is avaialble in the PDF file in this repositor- 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
