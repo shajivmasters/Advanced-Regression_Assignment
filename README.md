@@ -52,7 +52,7 @@ Below are some of them which will reduce the Housing price as they have negative
         2. KitchenQual_TA
         3. RoofMatl_Tar
 
-Note: These are not limited features just a brief feature to hightlight.
+Note: These are not the only features just a brief features that need hightlight.
 
 I have also showed the Variance and Bias different between the LinearRegression/Lasso and Rigid Models . Please check on the Jupyter note book  
 
