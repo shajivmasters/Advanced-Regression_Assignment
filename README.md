@@ -56,7 +56,7 @@ Note: These are not the only features just a brief features that need hightlight
 
 I have also showed the Variance and Bias different between the LinearRegression/Lasso and Rigid Models . Please check on the Jupyter note book  
 
-Assignment Part-II Subjective Question is avaialble in the PDF file in this repositor- 
+Assignment Part-II Subjective Question is avaialble in the PDF file in this repository
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
